@@ -1,4 +1,4 @@
-package com.professorangoti;
+package com.professorangoti.orm;
 
 import java.io.Serializable;
 
